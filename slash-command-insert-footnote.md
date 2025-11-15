@@ -3,6 +3,8 @@ tags: meta/library
 
 ---
 
+# Slash command: footnote
+
 ```space-lua
 slashCommand.define {
   name = "footnote",

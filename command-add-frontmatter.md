@@ -2,6 +2,8 @@
 tags: meta/library
 ---
 
+# Frontmatter: Add Frontmatter
+
 ```space-lua
 command.define {
   name = "Frontmatter: Add Frontmatter",
