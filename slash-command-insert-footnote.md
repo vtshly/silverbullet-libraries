@@ -1,4 +1,5 @@
 ---
+name: Library/vtshly/slash-command-insert-footnote
 tags: meta/library
 
 ---

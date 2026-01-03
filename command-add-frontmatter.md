@@ -1,5 +1,7 @@
 ---
+name: Library/vtshly/command-add-frontmatter
 tags: meta/library
+
 ---
 
 # Frontmatter: Add Frontmatter
